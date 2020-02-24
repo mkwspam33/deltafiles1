@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_halo_deltafiles.DF1_ScriptInclude</api_name>
+        <caller_access/>
+        <claim/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>DF1_ScriptInclude</name>
+        <script><![CDATA[var DF1_ScriptInclude = Class.create();
+DF1_ScriptInclude.prototype = {
+    initialize: function() {
+    },
+
+    type: 'DF1_ScriptInclude'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 21:43:52</sys_created_on>
+        <sys_id>fb0256a377030010ca3ab5b2681061ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DF1_ScriptInclude</sys_name>
+        <sys_package display_value="DeltaFiles" source="x_halo_deltafiles">d1b112a377030010ca3ab5b268106164</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="DeltaFiles">d1b112a377030010ca3ab5b268106164</sys_scope>
+        <sys_update_name>sys_script_include_fb0256a377030010ca3ab5b2681061ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 21:43:52</sys_updated_on>
+    </sys_script_include>
+</record_update>
