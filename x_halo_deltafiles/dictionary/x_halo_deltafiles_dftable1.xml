@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="DFTable1" max_length="40" name="x_halo_deltafiles_dftable1" type="collection">
+        <element label="INT1" max_length="40" name="int1" type="integer"/>
+        <element label="STR1" max_length="40" name="str1" type="string"/>
+    </element>
+</database>
